@@ -1,0 +1,36 @@
+    @font-face {
+        font-family: "Ubuntu"; 
+        src: url(https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72.woff2) format('woff2');
+    }
+
+    .fonte2 {
+        font-family: 'Trebuchet MS', sans-serif;
+    }
+
+    .fonte3 {
+        font-family: 'Alegreya Sans SC';       
+    }
+    
+    body {
+        background-color: #efffff; 
+        font-family: "Ubuntu", sans-serif;
+    }
+
+    .centro {
+        list-style-position: inside;
+        text-align: center;
+    }
+    
+    hr {
+        border-style: dotted none none; 
+        border-color:#497174; 
+        width:50px; 
+        border-width:6px;}
+
+    h1 {
+        color:#497174
+    }
+
+    h3 {
+        color:#497174
+    }
